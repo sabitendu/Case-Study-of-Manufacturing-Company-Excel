@@ -1,5 +1,9 @@
 # Case-Study-of-Manufacturing-Company-Excel
 
+
+
+![manu](https://github.com/sabitendu/Case-Study-of-Manufacturing-Company-Excel/assets/117887431/bfb13ef9-7658-4916-b57b-004d23a0c1b1)
+
 ## Overview:
 
 In my role as a Data Analyst at ElectroniTech Manufacturing Co., I had the privilege of working with seven datasets encompassing customer, employee, shipment status, shipment details, payment details, employee-managed shipments, and membership data. These datasets provide intricate insights into shipments and payments, offering a wealth of information such as shipment and payment IDs, customer and membership details, shipment contents, domains, service types, payment statuses, modes, and dates, as well as employee details and their efficacy in managing shipments. This comprehensive dataset enables in-depth analysis and visualization to unveil insights into shipment volumes, revenue contributions, customer behavior, and employee performance.
